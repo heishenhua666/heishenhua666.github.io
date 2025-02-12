@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>最终幻想7：重生-豪华版 FINAL FANTASY VII REBIRTH 预购特典+全DLC+修改器</title>
+    <url>/posts/9927a10a.html</url>
+    <content><![CDATA[<h1 id="🔎下载地址"><a href="#🔎下载地址" class="headerlink" title="🔎下载地址"></a><span style="color:blue">🔎下载地址</span></h1><div style="text-align: center;">
+  <a href="https://pan.quark.cn/s/a7b77e39fb08#/list/share" style="text-decoration: none; color: inherit;">
+    <div style="width: 80px; height: 80px; background-color: #3DFF0D; margin: 0 auto; display: flex; align-items: center; justify-content: center; border-radius: 20px; transition: background-color 0.3s ease;">
+      <i class="fas fa-light fa-download" style="font-size: 50px; color: white;"></i>
+    </div>
+    <div style="margin-top: 10px; padding: 7px 15px; background-color: #3DFF0D; color: black; border-radius: 50px; transition: background-color 0.3s ease; font-size: 25px;">
+      本次游戏：网盘下载
+    </div>
+  </a>
+</div>
+
+
+<h1 id="🔸游戏介绍"><a href="#🔸游戏介绍" class="headerlink" title="🔸游戏介绍"></a><span style="color:blue">🔸游戏介绍</span></h1><!-- 开始 -->
+<p>《最终幻想7：重生》是《FINAL FANTASY VII REMAKE》三部曲的第二部作品，讲述了克劳德和他的伙伴们成功脱离魔晄都市米德加，跨越命运之墙，踏入未知的荒野旅程。在这个多样化的辽阔世界中，玩家将骑乘陆行鸟在广袤的草原上驰骋，尽情探索新的地点，展开一段全新的冒险故事。</p>
+<p>“生命之流”是星球生命的循环，生于星球，最终也会回归。而神罗公司则无情地吸取这些生命能量，转化为”魔晄”并进行无节制的开采。经过在米德加的激烈战斗，克劳德和他的伙伴们终于走出城市，进入广袤的自然环境，开始了他们的旅程。</p>
+<p>在这段旅程中，克劳德与前神罗战士扎克斯相遇，扎克斯在荒野中扶持着因魔晄中毒而受伤的克劳德，二人共同面对即将到来的挑战。与此同时，反神罗联络会的崛起和”兵器”的觉醒，预示着星球面临的危机。宿敌萨菲罗斯的出现，更是让命运的交错变得扑朔迷离。</p>
+<p>这是一段关于勇气、友谊与命运的旅程，等待着玩家去探索和体验。随着故事的发展，玩家将面临更多的选择和挑战，影响着整个世界的命运。</p>
+<!-- 结束 -->
+
+<!-- 轮播图开始 -->
+<div class="carousel-container" style="width: 100%; overflow: hidden; position: relative;">
+  <div class="carousel-wrapper" style="display: flex; transition: transform 0.5s ease; width: 400%;">
+    <div style="width: 25%; flex-shrink: 0;">
+      <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/extras/FF7R2PC_Features_Light_03.png?t=1737644170" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 25%; flex-shrink: 0;">
+      <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/ss_7a83a64967a06edbf0d43821153a0188471d596a.600x338.jpg?t=1737644170" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 25%; flex-shrink: 0;">
+      <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/extras/Steam-CustomScreenshots_616x347_-1_english.png?t=1737644170" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 25%; flex-shrink: 0;">
+      <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/ss_7c389d8ed52b6bd2350a3bc9866ac45c919fb2e9.600x338.jpg?t=1737644170" style="width: 100%; height: auto;">
+    </div>
+  </div>
+  <button onclick="prevSlide()" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;">❮</button>
+  <button onclick="nextSlide()" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;">❯</button>
+</div>
+
+<!-- 缩略图导航 -->
+<div class="thumbnail-nav" style="display: flex; gap: 2px; margin-top: 2px;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/extras/FF7R2PC_Features_Light_03.png?t=1737644170" onclick="showSlide(0)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/ss_7a83a64967a06edbf0d43821153a0188471d596a.600x338.jpg?t=1737644170" onclick="showSlide(1)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/extras/Steam-CustomScreenshots_616x347_-1_english.png?t=1737644170" onclick="showSlide(2)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/ss_7c389d8ed52b6bd2350a3bc9866ac45c919fb2e9.600x338.jpg?t=1737644170" onclick="showSlide(3)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+</div>
+
+<script>
+let currentSlide = 0;
+const slides = document.querySelector('.carousel-wrapper');
+const thumbnails = document.querySelectorAll('.thumbnail-nav img');
+const allImages = [
+  "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/extras/FF7R2PC_Features_Light_03.png?t=1737644170",
+  "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/ss_7a83a64967a06edbf0d43821153a0188471d596a.600x338.jpg?t=1737644170",
+  "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/extras/Steam-CustomScreenshots_616x347_-1_english.png?t=1737644170",
+  "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/ss_7c389d8ed52b6bd2350a3bc9866ac45c919fb2e9.600x338.jpg?t=1737644170",
+  "https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2909400/ss_e20893c29ecb3211e9d2dd4b0c043a209ea15c07.600x338.jpg?t=1737644170"
+];
+
+// 预加载所有图片
+function preloadImages() {
+  allImages.forEach(src => {
+    const img = new Image();
+    img.src = src;
+  });
+}
+
+function updateSlidePosition() {
+  slides.style.transform = `translateX(-${currentSlide * 25}%)`;
+  
+  // 更新缩略图状态
+  thumbnails.forEach((thumb, i) => {
+    if (i === currentSlide) {
+      thumb.style.opacity = '1';
+      thumb.style.border = '2px solid #3DFF0D';
+    } else {
+      thumb.style.opacity = '0.6';
+      thumb.style.border = 'none';
+    }
+  });
+}
+
+function updateImages() {
+  const slideImages = slides.querySelectorAll('img');
+  const thumbImages = document.querySelectorAll('.thumbnail-nav img');
+  
+  // 预先准备下一组图片
+  const nextImages = [];
+  for (let i = 0; i < 4; i++) {
+    const imageIndex = (currentSlide + i) % 5;
+    nextImages.push(allImages[imageIndex]);
+  }
+
+  // 同时更新所有图片
+  for (let i = 0; i < 4; i++) {
+    slideImages[i].src = nextImages[i];
+    thumbImages[i].src = nextImages[i];
+  }
+}
+
+function showSlide(index) {
+  currentSlide = index;
+  if (currentSlide >= 4) {
+    currentSlide = 0;
+  } else if (currentSlide < 0) {
+    currentSlide = 3;
+  }
+  updateSlidePosition();
+  updateImages();
+}
+
+function nextSlide() {
+  currentSlide = (currentSlide + 1) % 5;
+  updateImages();
+  updateSlidePosition();
+}
+
+function prevSlide() {
+  currentSlide = (currentSlide - 1 + 5) % 5;
+  updateImages();
+  updateSlidePosition();
+}
+
+// 页面加载时预加载所有图片
+preloadImages();
+
+// 初始化第一张图片的缩略图状态
+showSlide(0);
+
+// 自动轮播
+setInterval(nextSlide, 5000);
+</script>
+<!-- 轮播图结束 -->
+
+
+
+<h1 id="🔸配置推荐"><a href="#🔸配置推荐" class="headerlink" title="🔸配置推荐"></a><span style="color:blue">🔸配置推荐</span></h1><div style="border: 2px solid #3DFF0D; padding: 10px; background-color: #f9f9f9;">
+  <strong style="color: black;">配置选项</strong><br>
+  <button onclick="toggleConfig('min')" style="border: 2px solid white; border-radius: 20px; background-color: #3DFF0D; color: black; padding: 10px 20px; margin-right: 10px;">最低配置</button>
+  <button onclick="toggleConfig('rec')" style="border: 2px solid white; border-radius: 20px; background-color: #3DFF0D; color: black; padding: 10px 20px;">推荐配置</button>
+  <div id="minConfig" style="display: block;">
+    <strong>最低配置</strong><br>
+    - 需要 64 位处理器和操作系统<br>
+    - 操作系统: Windows® 10 64-bit<br>
+    - 处理器: AMD Ryzen™ 5 1400 / Intel® Core™ i3-8100<br>
+    - 内存: 16 GB RAM<br>
+    - 显卡: AMD Radeon™ RX 6600 (RX 6600 or above required) / Intel® Arc™ A580 / NVIDIA® GeForce® RTX 2060 (RTX series required)<br>
+    - DirectX 版本: 12<br>
+    - 存储空间: 需要 155 GB 可用空间<br>
+    - 附注事项: 1080P / 30FPS (Graphics Quality Preset "Low"), SSD Required. Graphics Cards with Shader Model 6.6 support and OS with DirectX 12 Ultimate support required. 12GB VRAM or above recommended to play on 4k resolution.<br>
+  </div>
+  <div id="recConfig" style="display: none;">
+    <strong>推荐配置</strong><br>
+    - 处理器: AMD Ryzen™ 7 5800X / Intel® Core™ i7-10700K<br>
+    - 内存: 32 GB RAM<br>
+    - 显卡: NVIDIA® GeForce® RTX 3060 Ti 或 AMD Radeon™ RX 6700 XT<br>
+    - 存储空间: 需要 155 GB 可用空间（推荐使用 SSD）<br>
+    - 操作系统: Windows® 10 64-bit<br>
+    - DirectX 版本: 12<br>
+    - 附注事项: 1080P / 60FPS (Graphics Quality Preset "High"), SSD Required. 16GB VRAM or above recommended for optimal performance at higher resolutions.<br>
+  </div>
+</div>
+<script>
+  function toggleConfig(configType) {
+    document.getElementById('minConfig').style.display = configType === 'min' ? 'block' : 'none';
+    document.getElementById('recConfig').style.display = configType === 'rec' ? 'block' : 'none';
+  }
+</script>]]></content>
+      <categories>
+        <category>PC游戏</category>
+      </categories>
+      <tags>
+        <tag>PC游戏</tag>
+        <tag>单机游戏</tag>
+        <tag>主机游戏</tag>
+        <tag>游戏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>自杀小队：消灭正义联盟|豪华版|全DLC|官方中文|支持手柄</title>
+    <url>/posts/2b2c2289.html</url>
+    <content><![CDATA[<h1 id="🔎下载地址"><a href="#🔎下载地址" class="headerlink" title="🔎下载地址"></a><span style="color:blue">🔎下载地址</span></h1><div style="text-align: center;">
+  <a href="https://pan.quark.cn/s/33d2cd3367ce" style="text-decoration: none; color: inherit;">
+    <div style="width: 80px; height: 80px; background-color: #3DFF0D; margin: 0 auto; display: flex; align-items: center; justify-content: center; border-radius: 20px; transition: background-color 0.3s ease;">
+      <i class="fas fa-light fa-download" style="font-size: 50px; color: white;"></i>
+    </div>
+    <div style="margin-top: 10px; padding: 7px 15px; background-color: #3DFF0D; color: black; border-radius: 50px; transition: background-color 0.3s ease; font-size: 25px;">
+      本次游戏：网盘下载
+    </div>
+  </a>
+</div>
+
+
+<h1 id="🔸游戏介绍"><a href="#🔸游戏介绍" class="headerlink" title="🔸游戏介绍"></a><span style="color:blue">🔸游戏介绍</span></h1><!-- 开始 -->
+<p>由《蝙蝠侠：阿卡姆》系列的创作团队Rocksteady Studios所打造的《自杀小队：消灭正义联盟》，是一款颠覆性的第三人称动作射击游戏。一个极度格格不入的组合，必须前去完成一项不可能的任务：消灭正义联盟，从而拯救世界。</p>
+<p>自杀小队：消灭正义联盟|豪华版|全DLC|官方中文|支持手柄|Suicide Squad: Kill the Justice League<br>加入阿曼达·沃勒臭名昭著的X特遣队（又名”自杀小队”），成为”自愿加入”的一员。哈莉·奎茵、死亡射手、回旋镖队长和鲨鱼王不情愿地开始了他们近乎不可能的任务——消灭正义联盟。进入一个广阔而动态的开放世界大都会，其被布莱尼亚克入侵与毁坏，并被曾经保护它的英雄们所威胁。</p>
+<!-- 结束-->
+
+<!-- 开始 -->
+<p><video src="https://video.cdn.queniuqe.com/store_trailers/257010197/movie_max_vp9.webm?t=1711043154" controls style="width: 100%; height: auto;"></video></p>
+<!-- 轮播图开始 -->
+<div class="carousel-container" style="width: 100%; overflow: hidden; position: relative;">
+  <div class="carousel-wrapper" style="display: flex; transition: transform 0.5s ease;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/315210/ss_fed60f765e3b5facf915d0b70b7a05105aa3525b.1920x1080.jpg?t=1733850022" style="min-width: 100%; height: auto;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/315210/ss_2a0efefd5449c4048f5eca03f62d38069236e85f.1920x1080.jpg?t=1733850022" style="min-width: 100%; height: auto;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/315210/ss_a311fcf871d3c1230e95ecfa59e8c8117163d4b6.1920x1080.jpg?t=1733850022" style="min-width: 100%; height: auto;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/315210/ss_6cf9f98dcf74e2c228b1cdae3bbd38ca754398d3.1920x1080.jpg?t=1733850022" style="min-width: 100%; height: auto;">
+  </div>
+  <button onclick="prevSlide()" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">❮</button>
+  <button onclick="nextSlide()" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">❯</button>
+</div>
+
+<!-- 缩略图导航 -->
+<div class="thumbnail-nav" style="display: flex; gap: 2px; margin-top: 2px;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/315210/ss_fed60f765e3b5facf915d0b70b7a05105aa3525b.1920x1080.jpg?t=1733850022" onclick="showSlide(0)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/315210/ss_2a0efefd5449c4048f5eca03f62d38069236e85f.1920x1080.jpg?t=1733850022" onclick="showSlide(1)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/315210/ss_a311fcf871d3c1230e95ecfa59e8c8117163d4b6.1920x1080.jpg?t=1733850022" onclick="showSlide(2)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/315210/ss_6cf9f98dcf74e2c228b1cdae3bbd38ca754398d3.1920x1080.jpg?t=1733850022" onclick="showSlide(3)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+</div>
+
+<script>
+let currentSlide = 0;
+const slides = document.querySelector('.carousel-wrapper');
+const totalSlides = document.querySelectorAll('.carousel-wrapper img').length;
+const thumbnails = document.querySelectorAll('.thumbnail-nav img');
+
+function showSlide(index) {
+  if (index >= totalSlides) {
+    currentSlide = 0;
+  } else if (index < 0) {
+    currentSlide = totalSlides - 1;
+  } else {
+    currentSlide = index;
+  }
+  
+  slides.style.transform = `translateX(-${currentSlide * 100}%)`;
+  
+  // 更新缩略图状态
+  thumbnails.forEach((thumb, i) => {
+    thumb.style.opacity = i === currentSlide ? '1' : '0.6';
+    thumb.style.border = i === currentSlide ? '2px solid #3DFF0D' : 'none';
+  });
+}
+
+function nextSlide() {
+  showSlide(currentSlide + 1);
+}
+
+function prevSlide() {
+  showSlide(currentSlide - 1);
+}
+
+// 初始化第一张图片的缩略图状态
+showSlide(0);
+
+// 自动轮播
+setInterval(nextSlide, 10000);
+</script>
+<!-- 轮播图结束 -->
+
+
+
+<h1 id="🔸配置推荐"><a href="#🔸配置推荐" class="headerlink" title="🔸配置推荐"></a><span style="color:blue">🔸配置推荐</span></h1><div style="border: 2px solid #3DFF0D; padding: 10px; background-color: #f9f9f9;">
+  <strong style="color: black;">配置选项</strong><br>
+  <button onclick="toggleConfig('min')" style="border: 2px solid white; border-radius: 20px; background-color: #3DFF0D; color: black; padding: 10px 20px; margin-right: 10px;">最低配置</button>
+  <button onclick="toggleConfig('rec')" style="border: 2px solid white; border-radius: 20px; background-color: #3DFF0D; color: black; padding: 10px 20px;">推荐配置</button>
+  <div id="minConfig" style="display: block;">
+    操作系统：Win 10 (64 bit)<br>
+    处理器：Intel i5-8400 或 AMD Ryzen 5 1600 3.20 GHz<br>
+    显卡：NVIDIA GTX 1070 或 AMD Radeon RX Vega 56<br>
+    DirectX 版本：12<br>
+    存储空间：需要 65 GB 可用空间<br>
+    附注事项：RAM: 16 GB (2×8); SSD 推荐
+  </div>
+  <div id="recConfig" style="display: none;">
+    操作系统：Win 10 (64 bit)<br>
+    处理器：Intel i7-10700K 或 AMD Ryzen 7 5800 X3D<br>
+    显卡：NVIDIA RTX 2080 或 AMD RX 6800-XT (16GiB)<br>
+    DirectX 版本：12<br>
+    存储空间：需要 65 GB 可用空间<br>
+    附注事项：RAM: 16 GB (2×8); SSD 推荐
+  </div>
+</div>
+<script>
+  function toggleConfig(configType) {
+    document.getElementById('minConfig').style.display = configType === 'min' ? 'block' : 'none';
+    document.getElementById('recConfig').style.display = configType === 'rec' ? 'block' : 'none';
+  }
+</script>]]></content>
+      <categories>
+        <category>PC游戏</category>
+      </categories>
+      <tags>
+        <tag>PC游戏</tag>
+        <tag>单机游戏</tag>
+        <tag>主机游戏</tag>
+        <tag>游戏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>荒野大镖客：救赎1 v1.0.42.46611 - 集成不死梦魇DLC</title>
+    <url>/posts/db5f278.html</url>
+    <content><![CDATA[<h1 id="🔎下载地址"><a href="#🔎下载地址" class="headerlink" title="🔎下载地址"></a><span style="color:blue">🔎下载地址</span></h1><div style="text-align: center;">
+  <a href="https://pan.quark.cn/s/c7e403446e10" style="text-decoration: none; color: inherit;">
+    <div style="width: 80px; height: 80px; background-color: #3DFF0D; margin: 0 auto; display: flex; align-items: center; justify-content: center; border-radius: 20px; transition: background-color 0.3s ease;">
+      <i class="fas fa-light fa-download" style="font-size: 50px; color: white;"></i>
+    </div>
+    <div style="margin-top: 10px; padding: 7px 15px; background-color: #3DFF0D; color: black; border-radius: 50px; transition: background-color 0.3s ease; font-size: 25px;">
+      本次游戏：网盘下载
+    </div>
+  </a>
+</div>
+
+
+<h1 id="🔸游戏介绍"><a href="#🔸游戏介绍" class="headerlink" title="🔸游戏介绍"></a><span style="color:blue">🔸游戏介绍</span></h1><!-- 开始 -->
+<p>本产品包含 PC 版《荒野大镖客：救赎1》和《不死梦魇》的数字版本，提供完整的单人游戏体验，并包括年度游戏版的额外内容。作为广受好评的《荒野大镖客2》的前作，这款游戏首次登陆 PC 平台，玩家将体验前亡命之徒约翰·马斯顿追捕臭名昭著的范德林德帮最后残余成员的故事。</p>
+<p>《荒野大镖客：救赎1》及其标志性的僵尸恐怖衍生游戏《不死梦魇》，作为一个精彩的捆绑包，将以令人惊叹的细节呈现。现可于 PC 平台上游玩，游戏包含了一系列全新功能，让游戏在 PC 上重获新生，包括 HDR 照明、在兼容硬件上支持最高 144hz 原生 4K 分辨率、（21:9）和极宽（32:9）的显示器支持、可调节绘制距离、阴影质量设定，及更多内容。</p>
+<!-- 结束-->
+
+<!-- 视频开始 -->
+<p><video src="https://video.cdn.queniuqe.com/store_trailers/257062981/movie480_vp9.webm?t=1730234122" controls style="width: 100%; height: auto;"></video></p>
+<!-- 视频结束 -->
+
+<!-- 轮播图开始 -->
+<div class="carousel-container" style="width: 100%; overflow: hidden; position: relative;">
+  <div class="carousel-wrapper" style="display: flex; transition: transform 0.5s ease;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2668510/ss_732808f29f7dcfa86d0bf42548f9b647a430fb73.600x338.jpg?t=1731017882" style="min-width: 100%; height: auto;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2668510/ss_05772b62ff72903c917ed271ee31fb540a334325.600x338.jpg?t=1731017882" style="min-width: 100%; height: auto;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2668510/ss_5dfb3b435eb75fb5546a1f0aeb64b34e7feb4dea.600x338.jpg?t=1731017882" style="min-width: 100%; height: auto;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2668510/ss_ba2c07c5db3da423ea658a49dd7a1aef30cdd43f.600x338.jpg?t=1731017882" style="min-width: 100%; height: auto;">
+  </div>
+  <button onclick="prevSlide()" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">❮</button>
+  <button onclick="nextSlide()" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">❯</button>
+</div>
+
+<!-- 缩略图导航 -->
+<div class="thumbnail-nav" style="display: flex; gap: 2px; margin-top: 2px;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2668510/ss_732808f29f7dcfa86d0bf42548f9b647a430fb73.600x338.jpg?t=1731017882" onclick="showSlide(0)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2668510/ss_05772b62ff72903c917ed271ee31fb540a334325.600x338.jpg?t=1731017882" onclick="showSlide(1)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2668510/ss_5dfb3b435eb75fb5546a1f0aeb64b34e7feb4dea.600x338.jpg?t=1731017882" onclick="showSlide(2)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2668510/ss_ba2c07c5db3da423ea658a49dd7a1aef30cdd43f.600x338.jpg?t=1731017882" onclick="showSlide(3)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+</div>
+
+<script>
+let currentSlide = 0;
+const slides = document.querySelector('.carousel-wrapper');
+const totalSlides = document.querySelectorAll('.carousel-wrapper img').length;
+const thumbnails = document.querySelectorAll('.thumbnail-nav img');
+
+function showSlide(index) {
+  if (index >= totalSlides) {
+    currentSlide = 0;
+  } else if (index < 0) {
+    currentSlide = totalSlides - 1;
+  } else {
+    currentSlide = index;
+  }
+  
+  slides.style.transform = `translateX(-${currentSlide * 100}%)`;
+  
+  // 更新缩略图状态
+  thumbnails.forEach((thumb, i) => {
+    thumb.style.opacity = i === currentSlide ? '1' : '0.6';
+    thumb.style.border = i === currentSlide ? '2px solid #3DFF0D' : 'none';
+  });
+}
+
+function nextSlide() {
+  showSlide(currentSlide + 1);
+}
+
+function prevSlide() {
+  showSlide(currentSlide - 1);
+}
+
+// 初始化第一张图片的缩略图状态
+showSlide(0);
+
+// 自动轮播
+setInterval(nextSlide, 10000);
+</script>
+<!-- 轮播图结束 -->
+
+
+
+<h1 id="🔸配置推荐"><a href="#🔸配置推荐" class="headerlink" title="🔸配置推荐"></a><span style="color:blue">🔸配置推荐</span></h1><div style="border: 2px solid #3DFF0D; padding: 10px; background-color: #f9f9f9;">
+  <strong style="color: black;">配置选项</strong><br>
+  <button onclick="toggleConfig('min')" style="border: 2px solid white; border-radius: 20px; background-color: #3DFF0D; color: black; padding: 10px 20px; margin-right: 10px;">最低配置</button>
+  <button onclick="toggleConfig('rec')" style="border: 2px solid white; border-radius: 20px; background-color: #3DFF0D; color: black; padding: 10px 20px;">推荐配置</button>
+  <div id="minConfig" style="display: block;">
+    <strong>最低配置：</strong><br>
+    - 需要 64 位处理器和操作系统<br>
+    - 操作系统: Windows 10 64-Bit<br>
+    - 处理器: Intel® Core™ i5-8500 / AMD Ryzen 5 3500X<br>
+    - 内存: 8 GB RAM<br>
+    - 显卡: NVIDIA RTX 270 / AMD RX 5700 XT<br>
+    - DirectX 版本: 12<br>
+    - 存储空间: 需要 12 GB 可用空间<br>
+    - 声卡: Direct X Compatible<br>
+    - 附注事项: SSD recommended<br>
+  </div>
+  <div id="recConfig" style="display: none;">
+    <strong>推荐配置：</strong><br>
+    - 处理器: Intel® Core™ i7-9700K / AMD Ryzen 7 3700X<br>
+    - 内存: 16 GB RAM<br>
+    - 显卡: NVIDIA RTX 3060 / AMD RX 6700 XT<br>
+    - 存储空间: 需要 12 GB 可用空间（推荐使用 SSD）<br>
+    - 操作系统: Windows 10 64-Bit<br>
+    - DirectX 版本: 12<br>
+    - 附注事项: 1080P / 60FPS (Graphics Quality Preset "High"), SSD Required. 8GB VRAM or above recommended for optimal performance.<br>
+  </div>
+</div>
+<script>
+  function toggleConfig(configType) {
+    document.getElementById('minConfig').style.display = configType === 'min' ? 'block' : 'none';
+    document.getElementById('recConfig').style.display = configType === 'rec' ? 'block' : 'none';
+  }
+</script>]]></content>
+      <categories>
+        <category>PC游戏</category>
+      </categories>
+      <tags>
+        <tag>PC游戏</tag>
+        <tag>单机游戏</tag>
+        <tag>主机游戏</tag>
+        <tag>游戏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>赛博朋克2077本体+往日之影DLC Cyberpunk 2077 v2.21</title>
+    <url>/posts/4b6a246d.html</url>
+    <content><![CDATA[<h1 id="🔎下载地址"><a href="#🔎下载地址" class="headerlink" title="🔎下载地址"></a><span style="color:blue">🔎下载地址</span></h1><div style="text-align: center;">
+  <a href="https://pan.quark.cn/s/5a7d20b8874e" style="text-decoration: none; color: inherit;">
+    <div style="width: 80px; height: 80px; background-color: #3DFF0D; margin: 0 auto; display: flex; align-items: center; justify-content: center; border-radius: 20px; transition: background-color 0.3s ease;">
+      <i class="fas fa-light fa-download" style="font-size: 50px; color: white;"></i>
+    </div>
+    <div style="margin-top: 10px; padding: 7px 15px; background-color: #3DFF0D; color: black; border-radius: 50px; transition: background-color 0.3s ease; font-size: 25px;">
+      本次游戏：网盘下载
+    </div>
+  </a>
+</div>
+
+
+<h1 id="🔸游戏介绍"><a href="#🔸游戏介绍" class="headerlink" title="🔸游戏介绍"></a><span style="color:blue">🔸游戏介绍</span></h1><!-- 开始 -->
+<p>《赛博朋克2077》是一款由CD Projekt Red开发的开放世界动作冒险RPG游戏，故事发生在2077年的夜之城，这是一个充满高科技和腐败的未来世界。玩家在游戏中扮演一名可自定义的佣兵V，通过完成各种任务和剧情，探索这个充满赛博朋克风格的都市。</p>
+<ul>
+<li>开放世界探索：夜之城是一个庞大且细节丰富的开放世界，玩家可以自由探索城市的各个角落，包括高楼大厦、贫民窟、荒废的恶土等。</li>
+<li>角色自定义：玩家可以自由定制角色的外观、背景故事、技能和属性，打造独一无二的V。</li>
+<li>多线性剧情：游戏采用多线性叙事方式，玩家的选择和决策将影响剧情的发展和结局。</li>
+<li>丰富的任务：除了主线任务，还有大量的支线任务和活动，每个任务都有独特的故事情节和奖励。</li>
+<li>战斗系统：游戏结合了射击、近战和黑客攻击等多种战斗方式，玩家可以根据自己的玩法风格选择不同的战斗策略。</li>
+</ul>
+<!-- 结束-->
+
+<!-- 视频开始 -->
+<p><video src="https://video.cdn.queniuqe.com/store_trailers/256975600/movie480_vp9.webm?t=1697117065" controls style="width: 100%; height: auto;"></video></p>
+<!-- 视频结束 -->
+
+
+<!-- 轮播图开始 -->
+<div class="carousel-container" style="width: 100%; overflow: hidden; position: relative;">
+  <div class="carousel-wrapper" style="display: flex; transition: transform 0.5s ease; width: 400%;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg?t=1733850169" style="width: 25%; height: auto;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.600x338.jpg?t=1733850169" style="width: 25%; height: auto;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1091500/ss_b529b0abc43f55fc23fe8058eddb6e37c9629a6a.600x338.jpg?t=1733850169" style="width: 25%; height: auto;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1091500/ss_b20689e73e3ac19bcc5fad2c18d0353c769de144.600x338.jpg?t=1733850169" style="width: 25%; height: auto;">
+  </div>
+  <button onclick="prevSlide()" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;">❮</button>
+  <button onclick="nextSlide()" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;">❯</button>
+</div>
+
+<!-- 缩略图导航 -->
+<div class="thumbnail-nav" style="display: flex; gap: 2px; margin-top: 2px;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg?t=1733850169" onclick="showSlide(0)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.600x338.jpg?t=1733850169" onclick="showSlide(1)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1091500/ss_b529b0abc43f55fc23fe8058eddb6e37c9629a6a.600x338.jpg?t=1733850169" onclick="showSlide(2)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/1091500/ss_b20689e73e3ac19bcc5fad2c18d0353c769de144.600x338.jpg?t=1733850169" onclick="showSlide(3)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+</div>
+
+<script>
+let currentSlide = 0;
+let slides, totalSlides, thumbnails;
+
+/**
+ * 更新轮播图位置
+ */
+function updateSlidePosition() {
+  slides.style.transform = `translateX(-${currentSlide * 25}%)`;
+  
+  // 更新缩略图状态
+  thumbnails.forEach((thumb, i) => {
+    if (i === currentSlide) {
+      thumb.style.opacity = '1';
+      thumb.style.border = '2px solid #3DFF0D';
+    } else {
+      thumb.style.opacity = '0.6';
+      thumb.style.border = 'none';
+    }
+  });
+}
+
+/**
+ * 显示指定索引的幻灯片
+ * @param {number} index - 幻灯片索引
+ */
+function showSlide(index) {
+  currentSlide = index;
+  if (currentSlide >= totalSlides) {
+    currentSlide = 0;
+  } else if (currentSlide < 0) {
+    currentSlide = totalSlides - 1;
+  }
+  updateSlidePosition();
+}
+
+/**
+ * 显示下一张幻灯片
+ */
+function nextSlide() {
+  showSlide(currentSlide + 1);
+}
+
+/**
+ * 显示上一张幻灯片
+ */
+function prevSlide() {
+  showSlide(currentSlide - 1);
+}
+
+/**
+ * 初始化轮播图
+ */
+function initCarousel() {
+  slides = document.querySelector('.carousel-wrapper');
+  totalSlides = document.querySelectorAll('.carousel-wrapper img').length;
+  thumbnails = document.querySelectorAll('.thumbnail-nav img');
+
+  // 初始化第一张图片的缩略图状态
+  showSlide(0);
+  
+  // 自动轮播
+  setInterval(nextSlide, 5000);
+  
+  // 绑定缩略图点击事件
+  bindThumbnailEvents();
+  
+  // 绑定按钮点击事件
+  bindButtonEvents();
+}
+
+/**
+ * 绑定缩略图点击事件
+ */
+function bindThumbnailEvents() {
+  thumbnails.forEach((thumb, index) => {
+    thumb.addEventListener('click', () => showSlide(index));
+  });
+}
+
+/**
+ * 绑定按钮点击事件
+ */
+function bindButtonEvents() {
+  document.querySelector('.carousel-container button:nth-child(1)').addEventListener('click', prevSlide);
+  document.querySelector('.carousel-container button:nth-child(2)').addEventListener('click', nextSlide);
+}
+
+// 监听页面内容更新事件
+document.addEventListener('DOMContentLoaded', initCarousel);
+window.addEventListener('popstate', initCarousel); // 监听历史记录变化
+
+// 调用初始化函数
+initCarousel();
+</script>
+<!-- 轮播图结束 -->
+
+
+
+<h2 id="🔸配置推荐"><a href="#🔸配置推荐" class="headerlink" title="🔸配置推荐"></a><span style="color:blue">🔸配置推荐</span></h2><div style="border: 2px solid #3DFF0D; padding: 10px; background-color: #f9f9f9;">
+  <strong style="color: black;">配置选项</strong><br>
+  <button onclick="toggleConfig('min')" style="border: 2px solid white; border-radius: 20px; background-color: #3DFF0D; color: black; padding: 10px 20px; margin-right: 10px;">最低配置</button>
+  <button onclick="toggleConfig('rec')" style="border: 2px solid white; border-radius: 20px; background-color: #3DFF0D; color: black; padding: 10px 20px;">推荐配置</button>
+  <div id="minConfig" style="display: block;">
+    - 需要 64 位处理器和操作系统<br>
+    - 操作系统: 64-bit Windows 10<br>
+    - 处理器: Core i7-6700 or Ryzen 5 1600<br>
+    - 内存: 12 GB RAM<br>
+    - 显卡: GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380<br>
+    - DirectX 版本: 12<br>
+    - 存储空间: 需要 70 GB 可用空间<br>
+  </div>
+  <div id="recConfig" style="display: none;">
+    操作系统：Win 10 (64 bit)<br>
+    处理器：Intel i7-10700K 或 AMD Ryzen 7 5800 X3D<br>
+    显卡：NVIDIA RTX 2080 或 AMD RX 6800-XT (16GiB)<br>
+    DirectX 版本：12<br>
+    存储空间：需要 65 GB 可用空间<br>
+    附注事项：RAM: 16 GB (2×8); SSD 推荐
+  </div>
+</div>
+<script>
+  function toggleConfig(configType) {
+    document.getElementById('minConfig').style.display = configType === 'min' ? 'block' : 'none';
+    document.getElementById('recConfig').style.display = configType === 'rec' ? 'block' : 'none';
+  }
+</script>]]></content>
+      <categories>
+        <category>PC游戏</category>
+      </categories>
+      <tags>
+        <tag>PC游戏</tag>
+        <tag>单机游戏</tag>
+        <tag>主机游戏</tag>
+        <tag>游戏</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Switch模拟器终极版（Yuzu/龙神/Suyu/蛋蛋/Sudachi）金手指固件19.1大全</title>
+    <url>/posts/a359b666.html</url>
+    <content><![CDATA[<h1 id="🔎下载地址"><a href="#🔎下载地址" class="headerlink" title="🔎下载地址"></a><span style="color:blue">🔎下载地址</span></h1><div style="text-align: center;">
+  <a href="https://pan.quark.cn/s/2033eb6f8b51" style="text-decoration: none; color: inherit;">
+    <div style="width: 80px; height: 80px; background-color: #3DFF0D; margin: 0 auto; display: flex; align-items: center; justify-content: center; border-radius: 20px; transition: background-color 0.3s ease;">
+      <i class="fas fa-light fa-download" style="font-size: 50px; color: white;"></i>
+    </div>
+    <div style="margin-top: 10px; padding: 7px 15px; background-color: #3DFF0D; color: black; border-radius: 50px; transition: background-color 0.3s ease; font-size: 25px;">
+      Switch模拟器：网盘下载
+    </div>
+  </a>
+</div>
+
+
+<h1 id="🔸游戏介绍"><a href="#🔸游戏介绍" class="headerlink" title="🔸游戏介绍"></a><span style="color:blue">🔸游戏介绍</span></h1><!-- 开始 -->
+<p>Yuzu柚子（PC+安卓）模拟器4176终极版，Ryujinx龙神（PC+安卓端）模拟器1403终极版<br>Suyu苏玉(PC+安卓）模拟器0.0.3终极版，Sudachi苏妲己（PC+安卓+IOS）模拟器1.0.10终极版<br>【PC电脑+安卓+IOS苹果】模拟器大全全（金手指+工具+常见问题），7款安卓版Switch模拟器<br>重磅推荐，任天堂NS龙神模拟器+最新固件密钥+游戏整合包，支持Win版，安卓版，Mac版。<br>收集了老任第一方出品的44款经典游戏，众所周知，第一方出品的游戏必属精品，值得收藏。<br>最新Switch模拟器+19.1.0固件+密钥+金手指，懒人整合包，汉化版本的，直接使用即可。<br>完美运行4K画质，《超级马里奥》、《塞尔达传说》、《宝可梦》、《异度神剑》等系列。<br>特别说明，因模拟器的兼容问题，并不保证所有游戏都可以正常模拟器。</p>
+<!-- 结束-->
+
+
+<!-- 轮播图开始 -->
+<div class="carousel-container" style="width: 100%; overflow: hidden; position: relative;">
+  <div class="carousel-wrapper" style="display: flex; transition: transform 0.5s ease;">
+    <img src="https://5858game.cn/wp-content/uploads/2024/06/NS-1.jpg" style="min-width: 100%; height: auto;">
+    <img src="https://tc.vlogidc.cn/img/2024/12/03/674e7e334949e.webp" style="min-width: 100%; height: auto;">
+    <img src="https://www.ns211.com/wp-content/uploads/2023/05/1683990220-4639758a8c67811-944x576.jpg" style="min-width: 100%; height: auto;">
+    <img src="https://pic1.zhimg.com/80/v2-3219633e5114142c50a83b92e990f630_720w.png" style="min-width: 100%; height: auto;">
+    <img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.4L7hlvRMjy0OZsXT8AHZygHaEK?rs=1&pid=ImgDetMain" style="min-width: 100%; height: auto;">
+  </div>
+  <button onclick="prevSlide()" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">❮</button>
+  <button onclick="nextSlide()" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">❯</button>
+</div>
+
+<!-- 缩略图导航 -->
+<div class="thumbnail-nav" style="display: flex; gap: 2px; margin-top: 2px;">
+  <img src="https://5858game.cn/wp-content/uploads/2024/06/NS-1.jpg" onclick="showSlide(0)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://tc.vlogidc.cn/img/2024/12/03/674e7e334949e.webp" onclick="showSlide(1)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://www.ns211.com/wp-content/uploads/2023/05/1683990220-4639758a8c67811-944x576.jpg" onclick="showSlide(2)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://pic1.zhimg.com/80/v2-3219633e5114142c50a83b92e990f630_720w.png" onclick="showSlide(3)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.4L7hlvRMjy0OZsXT8AHZygHaEK?rs=1&pid=ImgDetMain" onclick="showSlide(4)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+</div>
+
+<script>
+let currentSlide = 0;
+const slides = document.querySelector('.carousel-wrapper');
+const totalSlides = document.querySelectorAll('.carousel-wrapper img').length;
+const thumbnails = document.querySelectorAll('.thumbnail-nav img');
+let slideInterval;
+
+function showSlide(index) {
+  if (index >= totalSlides) {
+    currentSlide = 0;
+  } else if (index < 0) {
+    currentSlide = totalSlides - 1;
+  } else {
+    currentSlide = index;
+  }
+  slides.style.transform = `translateX(-${currentSlide * 100}%)`;
+  
+  // 更新缩略图状态
+  thumbnails.forEach((thumb, i) => {
+    thumb.style.opacity = i === currentSlide ? '1' : '0.6';
+    thumb.style.border = i === currentSlide ? '2px solid #3DFF0D' : 'none';
+  });
+}
+
+function nextSlide() {
+  showSlide(currentSlide + 1);
+}
+
+function prevSlide() {
+  showSlide(currentSlide - 1);
+}
+
+function startAutoSlide() {
+  if (slideInterval) {
+    clearInterval(slideInterval);
+  }
+  slideInterval = setInterval(nextSlide, 3000);
+}
+
+function stopAutoSlide() {
+  if (slideInterval) {
+    clearInterval(slideInterval);
+  }
+}
+
+// 初始化第一张图片的缩略图状态
+showSlide(0);
+
+// 启动自动轮播
+startAutoSlide();
+
+// 添加鼠标悬停事件
+document.querySelector('.carousel-container').addEventListener('mouseenter', stopAutoSlide);
+document.querySelector('.carousel-container').addEventListener('mouseleave', startAutoSlide);
+</script>
+<!-- 轮播图结束 -->
+
+
+
+<h1 id="🔸配置推荐"><a href="#🔸配置推荐" class="headerlink" title="🔸配置推荐"></a><span style="color:blue">🔸配置推荐</span></h1><p>目前的经验来看，CPU选择I或A都可以，问题不大。显卡方面建议使用N卡，问题最少。A卡和I卡都存在兼容问题，容易出现花屏和闪退情况。内存建议16G以上，8G也能运行但是大型游戏可能会吃力。<br>模拟器有2种运行模式，主机模式Docked和掌机模式Handheld，它们对应的分辨率为：1X 1080P&#x2F;720P，2X 2160P&#x2F;1440P，4X 4320P&#x2F;2880P。主机&#x2F;掌机模式可以在模拟器左下角快速切换，大家根据自己电脑配置，量力而行。<br>游戏MOD补丁和金手指，建议是尽量少用，用的越多，游戏出问题概率越大。尤其多个补丁或金手指同时使用，很容易出现冲突。对于大家最关注的60帧数补丁，我个人建议使用小黄鸭Lossless Scaling插帧，我使用小黄鸭后，就彻底抛弃帧数补丁。我是使用X2双倍设置，默认30帧的游戏插到60帧，默认60帧的游戏插到稳定60帧。</p>
+<div style="text-align: center;">
+  <a href="https://pan.quark.cn/s/36d389d21632" style="text-decoration: none; color: inherit;">
+    <div style="width: 80px; height: 80px; background-color: #3DFF0D; margin: 0 auto; display: flex; align-items: center; justify-content: center; border-radius: 20px; transition: background-color 0.3s ease;">
+      <i class="fas fa-light fa-download" style="font-size: 50px; color: white;"></i>
+    </div>
+    <div style="margin-top: 10px; padding: 7px 15px; background-color: #3DFF0D; color: black; border-radius: 50px; transition: background-color 0.3s ease; font-size: 25px;">
+      小黄鸭（补帧60FPS）下载
+    </div>
+  </a>
+</div>]]></content>
+      <categories>
+        <category>Switch游戏</category>
+      </categories>
+      <tags>
+        <tag>游戏</tag>
+        <tag>Switch模拟器</tag>
+        <tag>yuzu模拟器</tag>
+        <tag>龙神模拟器</tag>
+        <tag>Suyu模拟器</tag>
+        <tag>蛋蛋模拟器</tag>
+        <tag>Sudachi模拟器</tag>
+        <tag>金手指</tag>
+        <tag>固件</tag>
+        <tag>Switch</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>优资源 - 本站所有资源合集地址，一键打包，失效会补档！</title>
+    <url>/posts/564991d6.html</url>
+    <content><![CDATA[<h1 id="🔎下载地址"><a href="#🔎下载地址" class="headerlink" title="🔎下载地址"></a><span style="color:blue">🔎下载地址</span></h1><div style="text-align: center;">
+  <a href="https://pan.quark.cn/s/50846af8cc83" style="text-decoration: none; color: inherit;">
+    <div style="width: 80px; height: 80px; background-color: #3DFF0D; margin: 0 auto; display: flex; align-items: center; justify-content: center; border-radius: 20px; transition: background-color 0.3s ease;">
+      <i class="fas fa-light fa-download" style="font-size: 50px; color: white;"></i>
+    </div>
+    <div style="margin-top: 10px; padding: 7px 15px; background-color: #3DFF0D; color: black; border-radius: 50px; transition: background-color 0.3s ease; font-size: 25px;">
+      所有资源：一键打包
+    </div>
+  </a>
+</div>
+
+
+<h1 id="🔸游戏介绍"><a href="#🔸游戏介绍" class="headerlink" title="🔸游戏介绍"></a><span style="color:blue">🔸游戏介绍</span></h1><!-- 开始 -->
+<p>这里整合了本站所有优质资源，一键打包，失效会补档！<br>🎮 Switch游戏：从经典大作到热门新游，一应俱全。无论是冒险解谜，还是竞技对战，都能找到你的最爱。<br>💻 PC单机游戏：沉浸式体验单机世界的精彩，从3A大作到独立佳作，满足不同玩家的口味。<br>🛠️ 软件工具：办公、设计、学习，各类软件应有尽有，助力你高效完成任务。<br>🤖 AI工具：紧跟科技潮流，AI绘画、写作、数据分析等工具，激发你的创造力。<br>📱 手游资源：热门手游攻略、福利，让你在手机上也能畅享游戏乐趣。<br>🌐 网站资源：精选优质网站，涵盖学习、娱乐、生活等多方面，一键直达，方便快捷。<br>🌟 无论是游戏爱好者，还是工具使用者，这里都能找到你需要的宝藏。快来探索，开启你的精彩之旅！</p>
+<!-- 结束-->
+
+<!-- 轮播图开始 -->
+<div class="carousel-container" style="width: 100%; overflow: hidden; position: relative;">
+  <div class="carousel-wrapper" style="display: flex; transition: transform 0.5s ease;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2878980/capsule_616x353.jpg?t=1725526431" style="min-width: 100%; height: auto;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3035570/header.jpg?t=1729184423" style="min-width: 100%; height: auto;">
+    <img src="https://img.fhyx.com/uploads/2021/05/21/202105211441960.jpg" style="min-width: 100%; height: auto;">
+    <img src="https://pic.imgdb.cn/item/64043a8ef144a0100737b615.jpg" style="min-width: 100%; height: auto;">
+    <img src="https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2561580/header.jpg?t=1730386633" style="min-width: 100%; height: auto;">
+  </div>
+  <button onclick="prevSlide()" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">❮</button>
+  <button onclick="nextSlide()" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer;">❯</button>
+</div>
+
+<!-- 缩略图导航 -->
+<div class="thumbnail-nav" style="display: flex; gap: 2px; margin-top: 2px; overflow: hidden; width: 100%;">
+  <div class="thumbnail-wrapper" style="display: flex; transition: transform 0.5s ease; width: calc(100% + 2px);">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/2878980/capsule_616x353.jpg?t=1725526431" onclick="showSlide(0)" style="flex: 0 0 20%; height: 100px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+    <img src="https://shared.cdn.queniuqe.com/store_item_assets/steam/apps/3035570/header.jpg?t=1729184423" onclick="showSlide(1)" style="flex: 0 0 20%; height: 100px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+    <img src="https://img.fhyx.com/uploads/2021/05/21/202105211441960.jpg" onclick="showSlide(2)" style="flex: 0 0 20%; height: 100px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+    <img src="https://pic.imgdb.cn/item/64043a8ef144a0100737b615.jpg" onclick="showSlide(3)" style="flex: 0 0 20%; height: 100px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+    <img src="https://shared.st.dl.eccdnx.com/store_item_assets/steam/apps/2561580/header.jpg?t=1730386633" onclick="showSlide(4)" style="flex: 0 0 20%; height: 100px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  </div>
+</div>
+
+<script>
+let currentSlide = 0;
+const slides = document.querySelector('.carousel-wrapper');
+const totalSlides = document.querySelectorAll('.carousel-wrapper img').length;
+const thumbnails = document.querySelectorAll('.thumbnail-nav img');
+const thumbnailWrapper = document.querySelector('.thumbnail-wrapper');
+let slideInterval;
+
+/**
+ * 显示指定索引的幻灯片
+ * @param {number} index - 幻灯片索引
+ */
+function showSlide(index) {
+  if (index >= totalSlides) {
+    currentSlide = 0;
+  } else if (index < 0) {
+    currentSlide = totalSlides - 1;
+  } else {
+    currentSlide = index;
+  }
+  slides.style.transform = `translateX(-${currentSlide * 100}%)`;
+  
+  // 更新缩略图状态
+  thumbnails.forEach((thumb, i) => {
+    thumb.style.opacity = i === currentSlide ? '1' : '0.6';
+    thumb.style.border = i === currentSlide ? '2px solid #3DFF0D' : 'none';
+  });
+
+  // 实现缩略图的滚动效果
+  const offset = Math.floor(currentSlide / 5); // 每次点击滚动5张
+  thumbnailWrapper.style.transform = `translateX(-${offset * 100}%)`; // 根据当前幻灯片更新缩略图位置
+}
+
+/**
+ * 显示下一张幻灯片
+ */
+function nextSlide() {
+  showSlide(currentSlide + 1);
+}
+
+/**
+ * 显示上一张幻灯片
+ */
+function prevSlide() {
+  showSlide(currentSlide - 1);
+}
+
+/**
+ * 启动自动轮播
+ */
+function startAutoSlide() {
+  if (slideInterval) {
+    clearInterval(slideInterval);
+  }
+  slideInterval = setInterval(nextSlide, 3000);
+}
+
+/**
+ * 停止自动轮播
+ */
+function stopAutoSlide() {
+  if (slideInterval) {
+    clearInterval(slideInterval);
+  }
+}
+
+// 初始化第一张图片的缩略图状态
+showSlide(0);
+
+// 启动自动轮播
+startAutoSlide();
+
+// 添加鼠标悬停事件
+document.querySelector('.carousel-container').addEventListener('mouseenter', stopAutoSlide);
+document.querySelector('.carousel-container').addEventListener('mouseleave', startAutoSlide);
+</script>
+<!-- 轮播图结束 -->
+
+
+
+
+<h1 id="🔸配置推荐"><a href="#🔸配置推荐" class="headerlink" title="🔸配置推荐"></a><span style="color:blue">🔸配置推荐</span></h1><div style="border: 2px solid #3DFF0D; padding: 10px; background-color: #f9f9f9;">
+  <strong style="color: black;">推荐配置（60帧流畅运行）</strong><br>
+  <button onclick="toggleConfig('pc')" style="border: 2px solid white; border-radius: 20px; background-color: #3DFF0D; color: black; padding: 10px 20px; margin-right: 10px;">PC配置</button>
+  <button onclick="toggleConfig('android')" style="border: 2px solid white; border-radius: 20px; background-color: #3DFF0D; color: black; padding: 10px 20px;">安卓配置</button>
+  <div id="pcConfig" style="display: block;">
+    <strong style="color: black;">PC推荐配置</strong><br>
+    操作系统：Windows 10（64位）<br>
+    CPU：Intel Core i5-8400 或 AMD Ryzen 5 3600<br>
+    内存：16GB RAM<br>
+    显卡：NVIDIA GTX 1660 或 AMD Radeon RX 580<br>
+    存储空间：20GB 可用空间<br>
+    其他：建议使用高性能 SSD 以减少加载时间。
+  </div>
+  <div id="androidConfig" style="display: none;">
+    <strong style="color: black;">安卓推荐配置</strong><br>
+    处理器：高通骁龙 8 Gen 3 或天玑 9500<br>
+    内存：16GB RAM<br>
+    存储空间：20GB 可用空间<br>
+    其他：建议使用高性能手机散热器以避免过热降频。
+  </div>
+</div>
+<script>
+  function toggleConfig(configType) {
+    document.getElementById('pcConfig').style.display = configType === 'pc' ? 'block' : 'none';
+    document.getElementById('androidConfig').style.display = configType === 'android' ? 'block' : 'none';
+  }
+</script>]]></content>
+      <categories>
+        <category>Switch游戏</category>
+      </categories>
+      <tags>
+        <tag>游戏</tag>
+        <tag>Switch模拟器</tag>
+        <tag>yuzu模拟器</tag>
+        <tag>Switch</tag>
+        <tag>塞尔达传说</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PC/安卓《塞尔达传说:旷野之息》v1.6.0模拟器版|整合DLC|容量17.4GB|官方简体中文|支持键盘.鼠标.手柄</title>
+    <url>/posts/d419033.html</url>
+    <content><![CDATA[<h1 id="🔎下载地址"><a href="#🔎下载地址" class="headerlink" title="🔎下载地址"></a><span style="color:blue">🔎下载地址</span></h1><div style="text-align: center;">
+  <a href="https://pan.quark.cn/s/e977bdca1c1c" style="text-decoration: none; color: inherit;">
+    <div style="width: 80px; height: 80px; background-color: #3DFF0D; margin: 0 auto; display: flex; align-items: center; justify-content: center; border-radius: 20px; transition: background-color 0.3s ease;">
+      <i class="fas fa-light fa-download" style="font-size: 50px; color: white;"></i>
+    </div>
+    <div style="margin-top: 10px; padding: 7px 15px; background-color: #3DFF0D; color: black; border-radius: 50px; transition: background-color 0.3s ease; font-size: 25px;">
+      本次游戏：网盘下载
+    </div>
+  </a>
+</div>
+
+
+<h1 id="🔸游戏介绍"><a href="#🔸游戏介绍" class="headerlink" title="🔸游戏介绍"></a><span style="color:blue">🔸游戏介绍</span></h1><!-- 开始 -->
+<p>《塞尔达传说 旷野之息》是一款动作冒险游戏，沙盒式的玩法拓展出了更多的内容，林克可以爬山、游泳，而且游戏对应外观变化，玩家在游戏过程中会找到不止一件的服装以及武器。而在大地图中也会找到更多可以拾取的道具。服装除了外观外也有着属性的设定，例如林克在寒冷的地方穿薄衣服就会哆嗦，需要换上厚一点的服装才会变正常。在地图上的互动要素也不少，玩家手上拿着火把就能把草堆点燃，拿着斧头就能砍树等。而且不同的武器也会反馈出不用的攻击动作，某些武器还能当作投掷道具扔出去。游戏的战斗中还有类似”子弹时间”的设定，当敌人漏出过大的破绽时就可以采取更有效的攻击，但具体发动条件未知。林克还拥有一个魔法炸弹一样的道具可以使用，而且可以改变其用法形态，通过炸弹可以炸掉矿点来获得素材道具，不过魔法炸弹每次使用之后都要经过冷却时间。林克还可以从高空滑翔至低处，不过滑翔也和攀爬一样需要消耗耐力。或者可以选择把盾牌当做滑板从高处滑下。</p>
+<!-- 结束-->
+
+<!-- 轮播图开始 -->
+<div class="carousel-container" style="width: 100%; overflow: hidden; position: relative;">
+  <div class="carousel-wrapper" style="display: flex; transition: transform 0.5s ease; width: 400%;">
+    <div style="width: 25%; flex-shrink: 0;">
+      <img src="https://pic1.zhimg.com/80/v2-9489d620be64aab423cdc2ff5bf0ebaf_1440w.webp?source=1def8aca" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 25%; flex-shrink: 0;">
+      <img src="https://pic1.zhimg.com/80/v2-00b625749d8403ee27045d47c6abf021_1440w.webp?source=1def8aca" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 25%; flex-shrink: 0;">
+      <img src="https://picx.zhimg.com/80/v2-362fd62e13606ea23bd87a34599022d9_1440w.webp?source=1def8aca" style="width: 100%; height: auto;">
+    </div>
+    <div style="width: 25%; flex-shrink: 0;">
+      <img src="https://picx.zhimg.com/80/v2-221ddca971d68a51d1634eda120d53fa_1440w.webp?source=1def8aca" style="width: 100%; height: auto;">
+    </div>
+  </div>
+  <button onclick="prevSlide()" style="position: absolute; left: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;">❮</button>
+  <button onclick="nextSlide()" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); z-index: 2; background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px;">❯</button>
+</div>
+
+<!-- 缩略图导航 -->
+<div class="thumbnail-nav" style="display: flex; gap: 2px; margin-top: 2px;">
+  <img src="https://pic1.zhimg.com/80/v2-9489d620be64aab423cdc2ff5bf0ebaf_1440w.webp?source=1def8aca" onclick="showSlide(0)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://pic1.zhimg.com/80/v2-00b625749d8403ee27045d47c6abf021_1440w.webp?source=1def8aca" onclick="showSlide(1)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://picx.zhimg.com/80/v2-362fd62e13606ea23bd87a34599022d9_1440w.webp?source=1def8aca" onclick="showSlide(2)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+  <img src="https://picx.zhimg.com/80/v2-221ddca971d68a51d1634eda120d53fa_1440w.webp?source=1def8aca" onclick="showSlide(3)" style="flex: 1; height: 115px; cursor: pointer; opacity: 0.6; object-fit: cover;">
+</div>
+
+<script>
+let currentSlide = 0;
+const slides = document.querySelector('.carousel-wrapper');
+const thumbnails = document.querySelectorAll('.thumbnail-nav img');
+const allImages = [
+  "https://pic1.zhimg.com/80/v2-9489d620be64aab423cdc2ff5bf0ebaf_1440w.webp?source=1def8aca",
+  "https://pic1.zhimg.com/80/v2-00b625749d8403ee27045d47c6abf021_1440w.webp?source=1def8aca",
+  "https://picx.zhimg.com/80/v2-362fd62e13606ea23bd87a34599022d9_1440w.webp?source=1def8aca",
+  "https://picx.zhimg.com/80/v2-221ddca971d68a51d1634eda120d53fa_1440w.webp?source=1def8aca",
+  "https://picx.zhimg.com/80/v2-8679acb78b35011f24657c416a63032d_1440w.webp?source=1def8aca"
+];
+
+// 预加载所有图片
+function preloadImages() {
+  allImages.forEach(src => {
+    const img = new Image();
+    img.src = src;
+  });
+}
+
+function updateSlidePosition() {
+  slides.style.transform = `translateX(-${currentSlide * 25}%)`;
+  
+  // 更新缩略图状态
+  thumbnails.forEach((thumb, i) => {
+    if (i === currentSlide) {
+      thumb.style.opacity = '1';
+      thumb.style.border = '2px solid #3DFF0D';
+    } else {
+      thumb.style.opacity = '0.6';
+      thumb.style.border = 'none';
+    }
+  });
+}
+
+function updateImages() {
+  const slideImages = slides.querySelectorAll('img');
+  const thumbImages = document.querySelectorAll('.thumbnail-nav img');
+  
+  // 预先准备下一组图片
+  const nextImages = [];
+  for (let i = 0; i < 4; i++) {
+    const imageIndex = (currentSlide + i) % 5;
+    nextImages.push(allImages[imageIndex]);
+  }
+
+  // 同时更新所有图片
+  for (let i = 0; i < 4; i++) {
+    slideImages[i].src = nextImages[i];
+    thumbImages[i].src = nextImages[i];
+  }
+}
+
+function showSlide(index) {
+  currentSlide = index;
+  if (currentSlide >= 4) {
+    currentSlide = 0;
+  } else if (currentSlide < 0) {
+    currentSlide = 3;
+  }
+  updateSlidePosition();
+  updateImages();
+}
+
+function nextSlide() {
+  currentSlide = (currentSlide + 1) % 5;
+  updateImages();
+  updateSlidePosition();
+}
+
+function prevSlide() {
+  currentSlide = (currentSlide - 1 + 5) % 5;
+  updateImages();
+  updateSlidePosition();
+}
+
+// 页面加载时预加载所有图片
+preloadImages();
+
+// 初始化第一张图片的缩略图状态
+showSlide(0);
+
+// 自动轮播
+setInterval(nextSlide, 5000);
+</script>
+<!-- 轮播图结束 -->
+
+
+
+<h1 id="🔸配置推荐"><a href="#🔸配置推荐" class="headerlink" title="🔸配置推荐"></a><span style="color:blue">🔸配置推荐</span></h1><div style="border: 2px solid #3DFF0D; padding: 10px; background-color: #f9f9f9;">
+  <strong style="color: black;">推荐配置（60帧流畅运行）</strong><br>
+  <button onclick="toggleConfig('pc')" style="border: 2px solid white; border-radius: 20px; background-color: #3DFF0D; color: black; padding: 10px 20px; margin-right: 10px;">PC配置</button>
+  <button onclick="toggleConfig('android')" style="border: 2px solid white; border-radius: 20px; background-color: #3DFF0D; color: black; padding: 10px 20px;">安卓配置</button>
+  <div id="pcConfig" style="display: block;">
+    <strong style="color: black;">PC推荐配置</strong><br>
+    操作系统：Windows 10（64位）<br>
+    CPU：Intel Core i5-8400 或 AMD Ryzen 5 3600<br>
+    内存：16GB RAM<br>
+    显卡：NVIDIA GTX 1660 或 AMD Radeon RX 580<br>
+    存储空间：20GB 可用空间<br>
+    其他：建议使用高性能 SSD 以减少加载时间。
+  </div>
+  <div id="androidConfig" style="display: none;">
+    <strong style="color: black;">安卓推荐配置</strong><br>
+    处理器：高通骁龙 8 Gen 3 或天玑 9500<br>
+    内存：16GB RAM<br>
+    存储空间：20GB 可用空间<br>
+    其他：建议使用高性能手机散热器以避免过热降频。
+  </div>
+</div>
+<script>
+  function toggleConfig(configType) {
+    document.getElementById('pcConfig').style.display = configType === 'pc' ? 'block' : 'none';
+    document.getElementById('androidConfig').style.display = configType === 'android' ? 'block' : 'none';
+  }
+</script>]]></content>
+      <categories>
+        <category>Switch游戏</category>
+      </categories>
+      <tags>
+        <tag>游戏</tag>
+        <tag>Switch模拟器</tag>
+        <tag>yuzu模拟器</tag>
+        <tag>Switch</tag>
+        <tag>塞尔达传说</tag>
+      </tags>
+  </entry>
+</search>
